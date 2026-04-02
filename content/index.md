@@ -1,16 +1,12 @@
 ---
-title: "Filozófiai Tudásbázis"
+title: Knowledge Base
 ---
+Welcome to my notes!
 
-Üdvözöllek a jegyzeteim között!
+This site was created with the help of [Obsidian](https://obsidian.md) and [Quartz](https://quartz.jzhao.xyz/). This is where I collect and organize my thoughts, readings, and connections.
 
-Ez az oldal az [Obsidian](https://obsidian.md) és a [Quartz](https://quartz.jzhao.xyz/) segítségével jött létre. Itt gyűjtöm és rendszerezem a gondolataimat, olvasmányaimat és az összefüggéseket.
+### Navigation
+- [[Writers]] - Authors
 
-### Navigáció
-- [[Hogyan]] - Gondolatok a kezdésről
-- [[Writers]] - Szerzők
+*Search the menu items on the left, or use the **Graph** (network) view in the top right corner to explore concepts!*
 
-*Keresd a bal oldali menüpontokat, vagy használd a **Graph** (hálózat) nézetet a jobb felső sarokban a fogalmak felfedezéséhez!*
-
-
-asdfg
