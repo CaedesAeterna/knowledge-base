@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en_US",
+    locale: "en-US",
     baseUrl: "caedesaeterna.github.io/knowledge-base",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
