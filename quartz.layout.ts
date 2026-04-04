@@ -13,7 +13,7 @@ export const sharedPageComponents: SharedLayout = {
         repoId: "R_kgDOR4Vnlg",
         category: "General",
         categoryId: "DIC_kwDOR4Vnls4C5_df",
-        mapping: "pathname",
+        mapping: "title",
         strict: false,
         reactionsEnabled: true,
         inputPosition: "top",
