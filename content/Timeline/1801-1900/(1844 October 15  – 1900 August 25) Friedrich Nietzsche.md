@@ -1,3 +1,9 @@
+---
+century: [[19th Century]]
+tags:
+  - individual
+---
+
 Beyond Good and Evil
 Twilight of Idols
 Thus Spoke Zarathustra
