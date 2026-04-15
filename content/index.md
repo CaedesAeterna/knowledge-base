@@ -7,6 +7,6 @@ This site was created with the help of [Obsidian](https://obsidian.md) and [Quar
 
 ### Navigation
 - [[Writers]] - Authors
-- [[Timeline]]
+- Timeline - Chronological timeline of thoughts
 *Search the menu items on the left, or use the **Graph** (network) view in the top right corner to explore concepts!*
 

@@ -6,7 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.Comments({
+        Component.Comments({
       provider: "giscus",
       options: {
         repo: "CaedesAeterna/knowledge-base",
@@ -17,7 +17,8 @@ export const sharedPageComponents: SharedLayout = {
         strict: false,
         reactionsEnabled: true,
         inputPosition: "top",
-        theme: "preferred_color_scheme",
+        lightTheme: "light",
+        darkTheme: "dark",
       }
     }),
   ],
