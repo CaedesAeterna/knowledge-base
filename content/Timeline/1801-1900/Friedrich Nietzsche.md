@@ -1,6 +1,6 @@
 ---
-born: 1844
-died: 1900
+born: 1844 October 15
+died: 1900 August 25
 century: "[[19th Century]]"
 schools_of_thought: ['']
 tags:
