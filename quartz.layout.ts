@@ -11,7 +11,7 @@ export const sharedPageComponents: SharedLayout = {
       options: {
         repo: "CaedesAeterna/knowledge-base",
         repoId: "R_kgDOR4Vnlg",
-        category: "General",
+        category: "Announcements",
         categoryId: "DIC_kwDOR4Vnls4C5_df",
         mapping: "title",
         strict: false,
@@ -23,8 +23,8 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/CaedesAeterna/knowledge-base",
+      "Discord": "https://discord.gg/your-link-if-any",
     },
   }),
 }
