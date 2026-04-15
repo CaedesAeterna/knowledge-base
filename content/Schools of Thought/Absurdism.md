@@ -2,6 +2,8 @@
 century: 
 tags:
   - school-of-thought
+key_philosophers:
+  - 
 ---
 
 **Overview**  
