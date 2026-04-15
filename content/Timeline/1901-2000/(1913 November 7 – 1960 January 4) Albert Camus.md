@@ -1,12 +1,7 @@
 ---
-century: [[20th Century]]
+century:
+  - - 20th Century
 tags:
   - individual
+"Schools of thought:": "[[Absurdism]]"
 ---
-
-Schools of thought: 
-- [[Absurdism]]
-Period: "20th century"
-tags:
-- absurdism
-
