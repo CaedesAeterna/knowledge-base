@@ -1,5 +1,5 @@
 ---
-era: 
+century: 
 tags:
   - school-of-thought
 ---

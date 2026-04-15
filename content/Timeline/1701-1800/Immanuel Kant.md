@@ -1,5 +1,5 @@
 ---
-period: [[18th Century]]
+century: [[18th Century]]
 schools_of_thought: ['']
 tags:
   - individual
