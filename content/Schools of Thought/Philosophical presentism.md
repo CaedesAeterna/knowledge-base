@@ -1,3 +1,8 @@
+---
+century:
+key_philosophers:
+tags:
+---
 **Overview**  
 Presentism is the metaphysical view that only present entities and events exist. The past no longer exists and the future does not yet exist; reality is confined to a fleeting present moment. Temporal talk is often analyzed in tensed terms, and the ontology of presentism contrasts sharply with tenseless accounts like eternalism.
 

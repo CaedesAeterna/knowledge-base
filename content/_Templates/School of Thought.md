@@ -1,5 +1,5 @@
 ---
-era: 
+century:
 key_philosophers:
   - 
 tags:

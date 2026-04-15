@@ -1,3 +1,8 @@
+---
+century:
+key_philosophers:
+tags:
+---
 **Overview**  
 Nihilism is the view that life, values, or meaning lack inherent or objective grounding. It appears in several forms: metaphysical nihilism (denying concrete objects or existence), moral nihilism (denying objective moral values), and existential nihilism (the belief that life has no intrinsic meaning). Responses range from therapeutic acceptance to active rejection or reconstruction of value.
 

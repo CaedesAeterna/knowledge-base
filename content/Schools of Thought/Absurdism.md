@@ -1,4 +1,7 @@
 ---
+century:
+key_philosophers:
+tags:
 ---
 
 **Overview**  
