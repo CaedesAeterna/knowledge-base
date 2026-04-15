@@ -1,3 +1,9 @@
+---
+era: 
+tags:
+  - school-of-thought
+---
+
 **Overview**
 The Growing Block Universe (GBU) is a metaphysical theory where the past and present are real but the future is not; the "block" of reality grows as new present moments are added. Unlike eternalism, the future is open (does not yet exist), but unlike presentism the past retains ontological status. The present is the leading edge of the ontologically expanding block.
 

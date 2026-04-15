@@ -1,3 +1,9 @@
+---
+era: 
+tags:
+  - school-of-thought
+---
+
 **Overview**
 Eternalism is a metaphysical theory of time which holds that past, present, and future events are equally real. Time is viewed as a tenseless dimension (often compared to space) in which all moments exist ontologically; temporal differences are relations among events rather than differences in existence. This view contrasts with presentism and with some versions of the growing block theory in its treatment of the future.
 

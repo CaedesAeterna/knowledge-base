@@ -1,5 +1,6 @@
 ---
-century: [[19th Century]]
+period: [[19th Century]]
+schools_of_thought: ['']
 tags:
   - individual
 ---

@@ -1,3 +1,9 @@
+---
+era: 
+tags:
+  - school-of-thought
+---
+
 **Overview**  
 Existentialism is a philosophical inquiry that explores the problem of human existence and centers on the lived experience of the thinking, feeling, acting individual. It emphasizes that the individual is solely responsible for giving meaning to life and living it passionately and sincerely ("authentically"). It often deals with the disorientation and confusion in the face of an apparently meaningless or absurd world.
 

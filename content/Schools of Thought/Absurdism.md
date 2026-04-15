@@ -1,7 +1,7 @@
 ---
-century:
-key_philosophers:
+era: 
 tags:
+  - school-of-thought
 ---
 
 **Overview**  
