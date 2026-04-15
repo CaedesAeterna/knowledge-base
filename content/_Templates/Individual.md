@@ -1,4 +1,6 @@
 ---
+born: 
+died: 
 century: "[[ Century]]"
 schools_of_thought:
   - "[[School of Thought]]"
