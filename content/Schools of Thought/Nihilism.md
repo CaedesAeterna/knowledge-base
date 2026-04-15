@@ -9,7 +9,7 @@ Nihilism is the view that life, values, or meaning lack inherent or objective gr
 **Development Period**  
 As an explicit philosophical theme, nihilism emerged in the 19th century alongside critiques of religion, morality, and metaphysics; it became prominent in literature and philosophy throughout the late 19th and 20th centuries as modernity raised questions about authority, meaning, and value.
 
-Key Figures 
+**Key Figures** 
 - Friedrich Nietzsche — Central figure often associated with diagnosing modern nihilism (the "death of God") and exploring its consequences; he both described nihilism and proposed cultural and philosophical responses (e.g., revaluation of values).
 - Arthur Schopenhauer — Pessimistic metaphysics and critique of optimistic teleologies influenced later nihilistic themes about suffering, meaninglessness, and the will.
 - Søren Kierkegaard — Though a critic of nihilism, his existential analyses of despair and the individual's relation to meaning shaped later existential and nihilistic debates.

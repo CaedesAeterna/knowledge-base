@@ -1,15 +1,14 @@
 ---
-century:
+century: "[[ Century]]"
 key_philosophers:
   - 
 tags:
   - school-of-thought
 ---
+**Overview**  
 
-# {{title}}
 
-## Core Principles
+**Development Period**
 
-## Historical Context
 
-## Impact and Legacy
+**Key Figures** 
