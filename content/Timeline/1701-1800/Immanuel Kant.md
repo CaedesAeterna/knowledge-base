@@ -5,3 +5,4 @@ tags:
   - individual
 ---
 
+https://en.wikipedia.org/wiki/Categorical_imperative
