@@ -11,6 +11,8 @@ key_philosophers:
 **Overview**  
 Absurdism refers to the conflict between the human tendency to seek inherent value and meaning in life and the "silent," indifferent universe that offers none. It asserts that humanity is doomed to search for meaning where none exists. Unlike nihilism (which says there is no meaning) or existentialism (which says we create our own meaning), absurdism suggests we should embrace the absurdity of existence and live in defiance of it. By never obtaining absolute purpose and meaning. Living in spite of it a revolt against meaninglessness itself.
 
+"Oh look its a puffin, its a nice puffin"
+
 **Development Period**  
 Developed primarily in the mid-20th Century (approx. 1940s–1960s), closely linked with the post-WWII literary and philosophical landscape of France. It is often seen as a distinct branch or reaction to existentialism.
 
